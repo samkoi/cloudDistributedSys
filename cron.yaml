@@ -1,0 +1,4 @@
+cron:
+- description: "Reminder for election"
+  url: /reminder
+  schedule: every 24 hours
